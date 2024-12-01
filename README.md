@@ -50,17 +50,10 @@ Enter exit at any time to quit the game.
 
 
 # Example
-r n b q k b n r
-p p p p p p p p
-. . . . . . . .
-. . . . . . . .
-. . . . . . . .
-. . . . . . . .
-P P P P P P P P
-R N B Q K B N R
-Enter your move (e.g., e2e4, or 'exit' to quit): e2e4
-AI is thinking...
-AI played: e7e5
+
+
+<img width="275" alt="{181A5A4D-681A-402E-8DFE-8A3171C94D09}" src="https://github.com/user-attachments/assets/fbc022a5-b2a7-4c46-9c5b-61dc6a224a0c">
+
 
 # Customization
 Adjust AI Difficulty: You can modify the search depth in chess_ai.py to change the AI's strength.
